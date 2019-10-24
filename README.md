@@ -1,11 +1,9 @@
 # Unit Processes: pH 
 
-Current Members
+## Current Members
 
-Justin Lee (jl3524)
+- Justin Lee (jl3524)
+- Jena Rozanski (jmr485)
+- Rafaella Bruzual (rb697)
 
-Jena Rozanski (jmr485)
-
-Rafaella Bruzual (rb697)
-
-Spring 2019
+## Spring 2019
